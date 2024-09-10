@@ -21,21 +21,13 @@ O programa implementa um sistema de gerenciamento de grafos que permite ao usuá
 
 Para compilar e executar este projeto, você precisará de um compilador C compatível, como GCC, instalado em sua máquina. O programa foi desenvolvido e testado em ambiente Windows, mas também deve funcionar em outros sistemas operacionais que suportam o GCC.
 
-### Compilação
+### Contribuições
+Contribuições são bem-vindas. Se você encontrar algum bug ou tiver sugestões de melhorias, por favor, abra uma issue ou envie um pull request.
+
+### Compilação e execução
 
 Abra o terminal ou prompt de comando e navegue até o diretório onde o arquivo de código fonte (`Grafos.c`) está localizado. Compile o código com o seguinte comando:
 
 ```bash
 gcc Grafos.c -o Grafos.exe
-```bash
-###Execução
-Após a compilação, execute o programa com o comando:
 ./Grafos.exe
-
-
-###Copiar código
-./Grafos.exe
-Siga as instruções na tela para interagir com o programa. Você será capaz de escolher entre adicionar arestas, executar algoritmos ou sair do programa.
-
-Contribuições
-Contribuições são bem-vindas. Se você encontrar algum bug ou tiver sugestões de melhorias, por favor, abra uma issue ou envie um pull request.
