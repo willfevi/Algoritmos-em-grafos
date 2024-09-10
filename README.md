@@ -27,12 +27,12 @@ Abra o terminal ou prompt de comando e navegue até o diretório onde o arquivo 
 
 ```bash
 gcc Grafos.c -o Grafos.exe
-
+```bash
 ###Execução
 Após a compilação, execute o programa com o comando:
 ./Grafos.exe
 
-'''bash
+
 ###Copiar código
 ./Grafos.exe
 Siga as instruções na tela para interagir com o programa. Você será capaz de escolher entre adicionar arestas, executar algoritmos ou sair do programa.
